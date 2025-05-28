@@ -78,6 +78,20 @@ SNS처럼 사적인 정보는 부담스럽고, 명함처럼 격식 있는 정보
 
 ![](./docs/public/architecture.png)
 
+## 📚 Documentation & Wiki
+
+프로젝트의 상세한 기술 문서, API 명세, 개발 가이드 등 모든 정보는 **Wiki**에서 확인하실 수 있습니다!
+
+### 🔗 [📖 Wiki 바로가기](https://github.com/depromeet/Took-BE/wiki)
+
+- 🏗️ **아키텍처 설계 문서**
+- 📋 **API 명세서**
+- 🔧 **개발 환경 설정 가이드**
+- 🚀 **배포 가이드**
+- 🐛 **트러블슈팅**
+- 📝 **기술적 의사결정 과정**
+- 그리고 더 많은 개발 관련 문서들...
+
 ## 🎉 Contributors
 
 <table>
